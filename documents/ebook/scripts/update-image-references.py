@@ -5,6 +5,7 @@ Update image references in OJP e-book markdown files.
 Replaces image prompts with actual image references after generation.
 """
 
+import utils.session
 import re
 import json
 import sys

@@ -25,3 +25,5 @@ ojp-server/target/empty-libs/
 
 # macOS hidden files
 **/.DS_Store
+config.bat
+node_modules
